@@ -32,13 +32,15 @@
     border: 1px solid white;
 }
 
+/* FOURTH SECTION */
+
 .form-control{
     border: none;
     border-radius: 0;
     border-bottom: 1px solid black;
 }
 
-/* FOUTH SECTION MESSAGE LABEL HEIGHT */
+/* FOURTH SECTION MESSAGE LABEL HEIGHT */
 
 #message{
     height: 130px;
